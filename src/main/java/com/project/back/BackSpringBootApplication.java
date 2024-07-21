@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReactTftApplication {
+public class BackSpringBootApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ReactTftApplication.class, args);
+        SpringApplication.run(BackSpringBootApplication.class, args);
     }
 
 }
